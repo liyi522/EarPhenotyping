@@ -8,7 +8,7 @@
 
 **依赖** Linux; openCV; R (>= 3.1.0), R packages (data.table;shapes)
 
-**功能描述** The pipeline can locate 55 landmarks from the input ear profile photos, extract coordinates of 17 special landmarks, and calculate 136 ear phenotypes. Details see in this article: #############。
+**功能描述** The pipeline can help you cut the ear from face profile photo and locate 55 landmarks from the input ear profile photos, extract coordinates of 17 special landmarks, and calculate 136 ear phenotypes. Details see in this article: #############。
 
 
 
